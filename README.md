@@ -1,2 +1,2 @@
 # log anomaly detection using DeepL
-### Monitoring sistem deteksi anomali log berbasis logBERT 
+### “Self-hosted log anomaly monitoring system combining LogBERT, Retrieval-Augmented Generation (RAG), and n8n AI agents on top of Loghub (HDFS & BGL) datasets.”
