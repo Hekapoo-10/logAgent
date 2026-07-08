@@ -40,6 +40,9 @@ results/*.backup*.json
 # Claude Code lokal
 .claude/
 
+# Artefak paket submission
+*.zip
+
 # OS
 .DS_Store
 Thumbs.db
